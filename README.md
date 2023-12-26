@@ -1,7 +1,8 @@
 ### 👋  Hi there!
 
-Android Native & Flutter 공부 중
+Android Native & Flutter 공부 중...
 
+<br>
 
 ### 💪 Skills
 #### Platforms
