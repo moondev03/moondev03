@@ -25,9 +25,10 @@ Android Native & Flutter 공부 중...
   <img src="https://img.shields.io/badge/JiraSoftware-0052CC?style=for-the-badge&logo=JiraSoftware&logoColor=white"/>
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=Trello&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Android_Studio-34A853?style=for-the-badge&logo=AndroidStudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android_Studio-34A853?style=for-the-badge&logo=AndroidStudio&logoColor=white"/>
   
 </p>
