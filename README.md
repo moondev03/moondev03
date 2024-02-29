@@ -1,6 +1,6 @@
 ### 👋  Hi there!
 
-Android Native & Flutter 공부 중...
+Studying to be a Android Developer...
 
 <br>
 
@@ -30,5 +30,11 @@ Android Native & Flutter 공부 중...
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android_Studio-34A853?style=for-the-badge&logo=AndroidStudio&logoColor=white"/>
-  
 </p>
+
+<br>
+
+### :star2: Activity
+- IT 연합 프로젝트 동아리 DEPth 2기 Android 파트원 | 2023.09 ~ 2024.01 
+- IT 연합 프로젝트 동아리 DEPth 3기 Android 파트장 | 2024.02 ~ 
+- Prography 9기 Android 파트원 | 2024.02 ~ 
