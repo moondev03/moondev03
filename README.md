@@ -5,8 +5,8 @@
 <br>
 
 ### :star2: Activity
-<p><b>IT 연합 프로젝트 동아리 DEPth 2기 (Android 파트원) | 2023.09 ~ 2024.01 </b></p>
-<p><b>IT 연합 프로젝트 동아리 DEPth 3기 (Android 파트장) | 2024.02 ~ </b></p>
+<p><b>IT 프로젝트 동아리 DEPth 2기 (Android 파트원) | 2023.09 ~ 2024.01 </b></p>
+<p><b>IT 프로젝트 동아리 DEPth 3기 (Android 파트장) | 2024.02 ~ </b></p>
 <p><b>IT 커뮤니티 Prography 9기 (Android 파트원) | 2024.02 ~ </b></p>
 
 <br>
