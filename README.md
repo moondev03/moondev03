@@ -12,7 +12,7 @@
 
 <br>
 
-<h2 align="center"> :star2: Activity </h2>
+<h2 align="center"> 💪 Activity </h2>
 <p align="center"><b>IT 프로젝트 동아리 DEPth 2기 (Android 파트원) | 2023.09 ~ 2024.01 </b></p>
 <p align="center"><b>IT 프로젝트 동아리 DEPth 3기 (Android 파트장) | 2024.02 ~ </b></p>
 <p align="center"><b>IT 커뮤니티 Prography 9기 (Android) | 2024.02 ~ 2024.09 </b></p>
@@ -25,12 +25,10 @@
 
 <br>
 
----
+<h2 align="center"> :star2: </h2>
 
 <div align="center">
  <a href="https://github.com/devxb/gitanimals">
    <img src="https://render.gitanimals.org/farms/moondev03" width="70%" style="aspect-ratio: 2/1;"/>
  </a>
 </div>
-
----
