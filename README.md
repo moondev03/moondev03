@@ -17,6 +17,7 @@
 <p align="center"><b>IT 프로젝트 동아리 DEPth 3기 (Android 파트장) | 2024.02 ~ </b></p>
 <p align="center"><b>IT 커뮤니티 Prography 9기 (Android) | 2024.02 ~ 2024.09 </b></p>
 <p align="center"><b>수익화 IT 프로젝트 동아리 Canary 0기 (TEAM Weave) | 2024.05 ~ 2024.09 </b></p>
+<p align="center"><b>우아한테크코스 7기 (Android) | 2025.02 ~ </b></p>
 
 <br>
 <h2 align="center"> 🏆Awards </h2>
