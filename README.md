@@ -22,6 +22,7 @@
 <br>
 <h2 align="center"> 🏆Awards </h2>
 <p align="center"><b> 2023 | IT 프로젝트 동아리 DEPth 2기 | Main Project DemoDay | 1위 </b></p>
+<p align="center"><b> 2024 | IT 프로젝트 동아리 DEPth 3기 | Main Project DemoDay | 1위 </b></p>
 <p align="center"><b> 2024 | 명지대학교 | 제 3회 창의적 SW프로그램 경진대회(SW프로그램 개발 부문) | 대상(大賞) </b></p>
 
 <br>
