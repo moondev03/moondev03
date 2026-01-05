@@ -20,6 +20,8 @@
     
     명지대학교 (데이터테크놀로지전공) | 2019.03 ~ 2025.02
 
+<br>
+
 ### Activity
 
     명지대학교 IT 프로젝트 동아리 DEPth
@@ -29,6 +31,8 @@
         
     수익화 IT 커뮤니티 Prography
         ㄴ 9기 안드로이드 파트원 | 2024.02 ~ 2024.09
+
+<br>
 
 ### Project
 
@@ -41,6 +45,8 @@
 <br>
 <details>
 <summary><strong>Archive</strong></summary>
+
+---
 
 #### [3days - 직장인 소개팅](https://github.com/Student-Center/3days-aos) 
 ㄴ `Android` · `2024.08 ~ 2025.03` · `개발 중단` · `직장인 대상 소개팅 서비스`
@@ -59,5 +65,7 @@
 
 #### [전시로그 - 전시를 기록하다](https://github.com/AndLetgo/2nd-Main-JeonsiLog-Client) 
 ㄴ `Android` · `2023.09 ~ 2024.08` · `서비스 종료` · `전시 정보 / 리마인더 / 감상 기록 플랫폼` · `DEPth 2기 DemoDay 1위`
+
+---
 
 </details>
