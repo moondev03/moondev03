@@ -1,19 +1,4 @@
-<br>
-
-<picture>
-  <source
-    srcset="https://github.com/user-attachments/assets/3b9f38c5-70be-4d54-9eb4-0ae779440b50"
-    media="(prefers-color-scheme: dark)"
-  >
-  <img
-    src="https://github.com/user-attachments/assets/cae40dc6-5869-4c01-b580-b75387791fef"
-    alt="profile-intro"
-    style="width:60%; max-width:720px;"
-  >
-</picture>
-
-<br><br>
-      
+ 
 ### Education
 
     우아한테크코스 7기 (안드로이드 과정) | 2025.02 ~ 2025.12
@@ -25,7 +10,7 @@
 ### Activity
 
     명지대학교 IT 프로젝트 동아리 DEPth
-        ㄴ 4기 운영진 · 안드로이드 파트장 | 2025.02 ~ ing
+        ㄴ 4기 운영진 · 안드로이드 파트장 | 2025.02 ~ 2026.02
         ㄴ 3기 운영진 · 안드로이드 파트장 | 2024.02 ~ 2025.02
         ㄴ 2기 안드로이드 파트원 | 2023.09 ~ 2024.01
         
