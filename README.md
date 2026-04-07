@@ -15,11 +15,18 @@
         ㄴ 2기 안드로이드 파트원 | 2023.09 ~ 2024.01
         
     수익화 IT 커뮤니티 Prography
-        ㄴ 9기 안드로이드 파트원 | 2024.02 ~ 2024.09
+        ㄴ 11기 Team: Unicorn (안드로이드) | 2026.04 ~ 
+        ㄴ 9기 Team: RoomE (안드로이드) | 2024.02 ~ 2024.09
 
 <br>
 
 ### Project
+
+#### [Dialog - 생각을 나누는 토론 플랫폼](https://github.com/woowacourse-dialog/dialog_client)
+ㄴ `CMP` · `2025.11 ~ ing` · `개발에 대해 자유롭게 이야기하고 의견을 공유할 수 있는 토론 플랫폼`
+
+#### [Prezel](https://github.com/Team-Prezel/Prezel-Android)
+ㄴ `Android` · `2026.01 ~ ing` · `AI로 발음 / 속도 / 어투 등을 분석하고 원고를 교정해 발표연습을 도와주는 서비스`
 
 #### [보따리 - 여행부터 일상까지, 내 손안의 체크리스트](https://github.com/woowacourse-teams/2025-bottari)
 ㄴ `Android` · `2025.07 ~ ing` · `개인 및 단체를 위한 체크리스트 서비스`
